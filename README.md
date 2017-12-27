@@ -1,0 +1,2 @@
+# tensorflow_model_server
+Dockerized tensorflow_model_server
